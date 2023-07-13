@@ -158,8 +158,7 @@ export default function Home() {
     <main>
       <div className="flex items-center justify-between px-10 py-8">
         <div className=" flex space-x-6 items-center justify-center">
-          <p>"🏗 scaffold-eth"</p>
-          <p>"🖼 NFT example" </p>
+          <p>"Simple NFT Market example" </p>
         </div>
 
         <Web3Button />
